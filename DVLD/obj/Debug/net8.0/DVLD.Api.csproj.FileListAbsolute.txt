@@ -1,0 +1,6 @@
+C:\Users\fares\source\repos\DVLD\DVLD\obj\Debug\net8.0\DVLD.Api.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\DVLD\DVLD\obj\Debug\net8.0\DVLD.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\DVLD\DVLD\obj\Debug\net8.0\DVLD.Api.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD\obj\Debug\net8.0\DVLD.Api.AssemblyInfo.cs
+C:\Users\fares\source\repos\DVLD\DVLD\obj\Debug\net8.0\DVLD.Api.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD\obj\Debug\net8.0\DVLD.Api.MvcApplicationPartsAssemblyInfo.cache

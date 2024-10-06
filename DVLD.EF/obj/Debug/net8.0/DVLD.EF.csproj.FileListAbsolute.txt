@@ -1,0 +1,17 @@
+C:\Users\fares\source\repos\DVLD\DVLD.EF\bin\Debug\net8.0\DVLD.EF.deps.json
+C:\Users\fares\source\repos\DVLD\DVLD.EF\bin\Debug\net8.0\DVLD.EF.runtimeconfig.json
+C:\Users\fares\source\repos\DVLD\DVLD.EF\bin\Debug\net8.0\DVLD.EF.dll
+C:\Users\fares\source\repos\DVLD\DVLD.EF\bin\Debug\net8.0\DVLD.EF.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.AssemblyInfo.cs
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.dll
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\refint\DVLD.EF.dll
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.genruntimeconfig.cache
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\ref\DVLD.EF.dll
+C:\Users\fares\source\repos\DVLD\DVLD.EF\bin\Debug\net8.0\DVLD.Model.dll
+C:\Users\fares\source\repos\DVLD\DVLD.EF\bin\Debug\net8.0\DVLD.Model.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.EF\obj\Debug\net8.0\DVLD.EF.csproj.Up2Date

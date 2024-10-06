@@ -1,0 +1,17 @@
+C:\Users\fares\source\repos\DVLD\DVLD.Service\bin\Debug\net8.0\DVLD.Service.deps.json
+C:\Users\fares\source\repos\DVLD\DVLD.Service\bin\Debug\net8.0\DVLD.Service.dll
+C:\Users\fares\source\repos\DVLD\DVLD.Service\bin\Debug\net8.0\DVLD.Service.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.Service\bin\Debug\net8.0\DVLD.Data.dll
+C:\Users\fares\source\repos\DVLD\DVLD.Service\bin\Debug\net8.0\DVLD.Infrastructure.dll
+C:\Users\fares\source\repos\DVLD\DVLD.Service\bin\Debug\net8.0\DVLD.Infrastructure.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.Service\bin\Debug\net8.0\DVLD.Data.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\DVLD.Service.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\DVLD.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\DVLD.Service.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\DVLD.Service.AssemblyInfo.cs
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\DVLD.Service.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\DVLD.Ser.FD5FD483.Up2Date
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\DVLD.Service.dll
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\refint\DVLD.Service.dll
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\DVLD.Service.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.Service\obj\Debug\net8.0\ref\DVLD.Service.dll

@@ -1,0 +1,8 @@
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.Resources.SharedResources.ar.resources
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.Resources.SharedResources.en.resources
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.csproj.GenerateResource.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.AssemblyInfo.cs
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.csproj.CoreCompileInputs.cache

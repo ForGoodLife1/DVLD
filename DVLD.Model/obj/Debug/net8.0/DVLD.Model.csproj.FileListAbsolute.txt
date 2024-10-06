@@ -1,0 +1,11 @@
+C:\Users\fares\source\repos\DVLD\DVLD.Model\bin\Debug\net8.0\DVLD.Model.deps.json
+C:\Users\fares\source\repos\DVLD\DVLD.Model\bin\Debug\net8.0\DVLD.Model.dll
+C:\Users\fares\source\repos\DVLD\DVLD.Model\bin\Debug\net8.0\DVLD.Model.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.Model\obj\Debug\net8.0\DVLD.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\DVLD\DVLD.Model\obj\Debug\net8.0\DVLD.Model.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Model\obj\Debug\net8.0\DVLD.Model.AssemblyInfo.cs
+C:\Users\fares\source\repos\DVLD\DVLD.Model\obj\Debug\net8.0\DVLD.Model.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Model\obj\Debug\net8.0\DVLD.Model.dll
+C:\Users\fares\source\repos\DVLD\DVLD.Model\obj\Debug\net8.0\refint\DVLD.Model.dll
+C:\Users\fares\source\repos\DVLD\DVLD.Model\obj\Debug\net8.0\DVLD.Model.pdb
+C:\Users\fares\source\repos\DVLD\DVLD.Model\obj\Debug\net8.0\ref\DVLD.Model.dll
