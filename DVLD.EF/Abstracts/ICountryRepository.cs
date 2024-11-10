@@ -4,8 +4,8 @@ using DVLD.Infarastructure.InfrastructureBases;
 
 namespace DVLD.Infrastructure.Abstracts
 {
-    public interface ICountryRepository: IGenericRepositoryAsync<Country>
+    public interface ICountryRepository : IGenericRepositoryAsync<Country>
     {
-        public Task<List<Country>> GetCountrysListAsync();
+
     }
 }

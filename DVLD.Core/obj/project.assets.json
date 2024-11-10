@@ -6217,11 +6217,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Core\\DVLD.Core.csproj",
+      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Core\\DVLD.Core.csproj",
       "projectName": "DVLD.Core",
-      "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Core\\DVLD.Core.csproj",
+      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Core\\DVLD.Core.csproj",
       "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Core\\obj\\",
+      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6239,14 +6239,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.EF\\DVLD.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.EF\\DVLD.Infrastructure.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.EF\\DVLD.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.EF\\DVLD.Infrastructure.csproj"
             },
-            "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj"
             },
-            "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Service\\DVLD.Service.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Service\\DVLD.Service.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Service\\DVLD.Service.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Service\\DVLD.Service.csproj"
             }
           }
         }

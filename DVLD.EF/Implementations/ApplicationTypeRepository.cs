@@ -9,16 +9,12 @@ namespace DVLD.Infrastructure.Implementations
     public class ApplicationTypeRepository : GenericRepositoryAsync<ApplicationType>, IApplicationTypeRepository
     {
         private DbSet<ApplicationType> _ApplicationTypes;
-        public ApplicationTypeRepository(DvldContext dbContext):base(dbContext)
+        public ApplicationTypeRepository(DvldContext dbContext) : base(dbContext)
         {
             _ApplicationTypes=dbContext.Set<ApplicationType>();
         }
 
-        public async Task<List<ApplicationType>> GetApplicationTypesListAsync()
-        {
-            return await _ApplicationTypes.ToListAsync();
 
-        }
-          
+
     }
 }

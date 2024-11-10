@@ -17,6 +17,17 @@ namespace DVLD.Service
             services.AddTransient<IAuthorizationService, AuthorizationService>();
             services.AddTransient<IEmailsService, EmailsService>();
             services.AddTransient<IFileService, FileService>();
+            services.AddTransient<ICountryService, CountryService>();
+            services.AddTransient<IDriverService, DriverService>();
+            services.AddTransient<IInternationalLicenseService, InternationalLicenseService>();
+            services.AddTransient<ILicenseService, LicenseService>();
+            services.AddTransient<ILocalDrivingLicenseApplicationService, LocalDrivingLicenseApplicationService>();
+            services.AddTransient<ILocalDrivingLicenseApplicationsViewService, LocalDrivingLicenseApplicationsViewService>();
+            services.AddTransient<IPersonService, PersonService>();
+            services.AddTransient<ITestAppointmentService, TestAppointmentService>();
+            services.AddTransient<ITestService, TestService>();
+            services.AddTransient<ITestTypeService, TestTypeService>();
+            services.AddTransient<IUserService, UserService>();
             return services;
 
         }

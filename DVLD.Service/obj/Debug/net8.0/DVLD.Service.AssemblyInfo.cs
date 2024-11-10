@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DVLD.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181b3b8135a63018d9cca1ed17eae5c529e82e21")]
 [assembly: System.Reflection.AssemblyProductAttribute("DVLD.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DVLD.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

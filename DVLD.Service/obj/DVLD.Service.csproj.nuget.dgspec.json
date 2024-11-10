@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Service\\DVLD.Service.csproj": {}
+    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Service\\DVLD.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.EF\\DVLD.Infrastructure.csproj": {
+    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.EF\\DVLD.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.EF\\DVLD.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.EF\\DVLD.Infrastructure.csproj",
         "projectName": "DVLD.Infrastructure",
-        "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.EF\\DVLD.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.EF\\DVLD.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.EF\\obj\\",
+        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.EF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj": {
-                "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj"
+              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj": {
+                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj"
               }
             }
           }
@@ -111,14 +111,14 @@
         }
       }
     },
-    "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj": {
+    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj",
+        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj",
         "projectName": "DVLD.Data",
-        "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj",
+        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj",
         "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\obj\\",
+        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Service\\DVLD.Service.csproj": {
+    "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Service\\DVLD.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Service\\DVLD.Service.csproj",
+        "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Service\\DVLD.Service.csproj",
         "projectName": "DVLD.Service",
-        "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Service\\DVLD.Service.csproj",
+        "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Service\\DVLD.Service.csproj",
         "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Service\\obj\\",
+        "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -211,11 +211,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.EF\\DVLD.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.EF\\DVLD.Infrastructure.csproj"
+              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.EF\\DVLD.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.EF\\DVLD.Infrastructure.csproj"
               },
-              "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj": {
-                "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj"
+              "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj": {
+                "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj"
               }
             }
           }

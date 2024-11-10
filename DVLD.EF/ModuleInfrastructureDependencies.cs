@@ -17,7 +17,11 @@ namespace DVLD.Infrastructure
             services.AddTransient<IDriverRepository, DriverRepository>();
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IPersonRepository, PersonRepository>();
+            services.AddTransient<ITestAppointmentRepository, TestAppointmentRepository>();
             services.AddTransient<IUserRepository, UserRepository>();
+            services.AddTransient<ITestAppointmentsViewRepository, TestAppointmentsViewRepository>();
+            services.AddTransient<ITestRepository, TestRepository>();
+            services.AddTransient<ITestTypeRepository, TestTypeRepository>();
             services.AddTransient<IRefreshTokenRepository, RefreshTokenRepository>();
             services.AddTransient(typeof(IGenericRepositoryAsync<>), typeof(GenericRepositoryAsync<>));
             return services;

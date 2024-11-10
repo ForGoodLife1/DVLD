@@ -6,3 +6,4 @@ C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.GeneratedM
 C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.AssemblyInfoInputs.cache
 C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.AssemblyInfo.cs
 C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\DVLD\DVLD.Core\obj\Debug\net8.0\DVLD.Core.sourcelink.json

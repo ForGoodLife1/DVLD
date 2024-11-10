@@ -1955,11 +1955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj",
+      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj",
       "projectName": "DVLD.Data",
-      "projectPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj",
+      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj",
       "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\obj\\",
+      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",

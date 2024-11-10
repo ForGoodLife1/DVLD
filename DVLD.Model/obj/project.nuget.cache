@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cF+kFfcnnmk=",
+  "dgSpecHash": "BYg8TkR0XAg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fares\\source\\repos\\DVLD\\DVLD.Model\\DVLD.Data.csproj",
+  "projectFilePath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\DVLD\\Back\\DVLD.Model\\DVLD.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fares\\.nuget\\packages\\entityframeworkcore.encryptcolumn\\6.0.8\\entityframeworkcore.encryptcolumn.6.0.8.nupkg.sha512",
     "C:\\Users\\fares\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

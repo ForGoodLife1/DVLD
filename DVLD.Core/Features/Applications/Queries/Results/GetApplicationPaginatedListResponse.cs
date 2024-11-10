@@ -2,9 +2,9 @@
 {
     public class GetApplicationPaginatedListResponse
     {
-        public int StudID { get; set; }
-        public string? Name { get; set; }
-        public string? Address { get; set; }
-        public string? DepartmentName { get; set; }
+        public int ApplicationId { get; set; }
+        public DateTime ApplicationDate { get; set; }
+        public int ApplicationStatus { get; set; }
+        public decimal PaidFees { get; set; }
     }
 }
